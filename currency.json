@@ -1,7 +1,5 @@
 {
     "success": true,
-    "terms": "https://fxratesapi.com/legal/terms-conditions",
-    "privacy": "https://fxratesapi.com/legal/privacy-policy",
     "timestamp": 1730276520,
     "date": "2024-10-30T08:22:00.000Z",
     "base": "USD",
